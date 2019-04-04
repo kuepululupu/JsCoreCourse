@@ -1,1 +1,2 @@
-//mamesmon
+alert("Hello");
+console.log("HelloWorld");
